@@ -45,7 +45,7 @@ Technologies Used
 Authors
 
 - Vinícius Freitas  @vinifrts
-- João Pedro Muniz  @
+- João Pedro Muniz  @joaopedroms200-droid
 
 Disclaimer
 
