@@ -59,3 +59,7 @@ Authors
 Disclaimer
 
 This analysis is purely descriptive and does not imply causality between salary and performance.
+
+
+LINK:
+https://youtu.be/qK0XBP3V2kQ
